@@ -1,2 +1,3 @@
 lalla i am saved
 merge new trick checking ..from master
+new changes for remote branch simpleGit
